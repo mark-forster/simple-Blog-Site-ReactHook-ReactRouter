@@ -1,0 +1,14 @@
+.container{
+    width:80%;
+    margin: auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+    padding:30px;
+}
+
+.aboutParagraph{
+    text-align: justify !important;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 2.2rem !important;
+}
